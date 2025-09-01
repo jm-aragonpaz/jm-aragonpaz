@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jm-aragonpaz
-- 👀 I’m interested in data science, blockchain and sports :P
-- 🌱 I’m currently learning HTML,CSS and JS
+- 👀 I’m interested in data, specially agriculture and sports :P
+
 
 <!---
 jm-aragonpaz/jm-aragonpaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
