@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jm-aragonpaz
-- 👀 I’m interested in data, specially agriculture and sports :P
+- 👀 I’m interested in data, specially agriculture, financial, and sports :P
 
 
 <!---
